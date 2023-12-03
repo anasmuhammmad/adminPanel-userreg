@@ -8,7 +8,7 @@ const auth = require("../middlewares/adminAuth");
 //         const salt = await bcrypt.genSalt()
 //         const hashedpassword = await bcrypt.hashSync("anirudh",salt) ;
 //         let data = {
-//             Email:"anirudhjagath2002@gmail.com",
+//             Email:"anasmuhammed444@gmail.com",
 //             Password:hashedpassword
 //         }
 //         await adminModel.create(data)
