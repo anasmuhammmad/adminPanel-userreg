@@ -1,0 +1,1 @@
+# adminPanel-userreg  just designed and developed a basic for creating user through user-signup, managing the user from admin by blocking feature, for ease of doing just used 'router.get' insted of 'router.route'
